@@ -1,2 +1,2 @@
 # spring-cloud-config-poc
-spring cloud config POC
+proof of concept spring cloud config 
